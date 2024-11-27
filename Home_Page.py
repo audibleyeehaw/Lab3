@@ -22,7 +22,7 @@ st.write("""
 Welcome to our Streamlit Web Development Lab03 app! You can navigate between the pages using the sidebar to the left. The following pages are:
 
 1. Amy's Portfolio
-2. Spider-Man's Portfolio
+2. Kelsey's Portfolio
 3.
 4.
 
